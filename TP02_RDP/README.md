@@ -19,21 +19,21 @@ manière sécurisée.
 -  Vérification des informations du système
   Dans Windows > paramètre > Système > informations système
 
-  ![information systems]()
+  ![information systems](captures/informations_systeme.png)
 
 ### 2. Activation du bureau à distance
 
-  ![activation bureau à distance]()
+  ![activation bureau à distance](captures/activation_bureau_à_distance.png)
 
 
 ### 3. Configurer l'Accès des Utilisateurs :
 Ici mon utilisateur principal hp à déjà accès au bureau à distance
 
-![accès des users au bureau à distance]()
+![accès des users au bureau à distance](captures/acces_des_user_au_bureau_à_distance.png)
 
 ### 4. Vérification des paramètre du Pare-Feu
 
-![Vérifications des pare-feu]()
+![Vérifications des pare-feu](captures/vérification_des_pare_feu.png)
 
 ##  Partie 2 : Connexion au Serveur RDP depuis un Client Windows
 
