@@ -42,31 +42,32 @@ Ici mon utilisateur principal hp à déjà accès au bureau à distance
 ### 1. Installer un Client RDP (Remmina ou FreeRDP) 
 -  Installation de remmina : moi vue que je l'avais déjà installé ça donne ça
 
-  ![installation de remmina]()
+  ![installation de remmina](captures/installation_remmina.png)
 
 ### 2. Lancer Remmina et Configurer la Connexion 
 
 -  Lancement de rémmina
 
-  ![lancement de remmina]()
-  ![validation de la connexion]()
+  ![lancement de remmina](captures/lancement_remmina.png)
+  ![validation de la connexion](captures/validation_de_connexion.png)
 
 ### 3. test de la connexion
 validation de la connexion
 
-![test de la connexion]()
+![test de la connexion](captures/test_connexion.png)
 
 ##  Partie 4 : Activation du service RDP sous virtualbox pour accès à une machine
 -  VirtualBox peut être configuré pour offrir un accès distant aux machines virtuelles, via le
 protocole RDP (Bureau à distance). Lancez votre VitualBox.
 
-  ![virtualbox_activation bureau à_distance]()
+  ![virtualbox_activation bureau à_distance](captures/vbox_activation_b_d.png)
 
 -  Test de bon fonctionnement Comme client, nous allons utiliser l’outil Bureau à distance de
 Windows
 
-![connexion par windows sur ubuntu]()
-![validation, de la connexion par windows sur ubuntu]()
+![connexion par windows sur ubuntu](captures/ubuntu_connexion_par_window_rdp.png)
+![validation, de la connexion par windows sur ubuntu](TP02_RDP/captures/validation_de_connexion.png)
+![](captures/connexion_à_ubuntu.png)
 
 ###Conclusion
 ce tp nous a donc permis comprendre l'accès bureau à distance et les aspects essentiels de RDP
