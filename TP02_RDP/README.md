@@ -66,9 +66,9 @@ protocole RDP (Bureau à distance). Lancez votre VitualBox.
 Windows
 
 ![connexion par windows sur ubuntu](captures/ubuntu_connexion_par_window_rdp.png)
-![validation, de la connexion par windows sur ubuntu](TP02_RDP/captures/validation_de_connexion.png)
+![validation, de la connexion par windows sur ubuntu](captures/validation_de_connexion.png)
 ![](captures/connexion_à_ubuntu.png)
 
-###Conclusion
+### Conclusion
 ce tp nous a donc permis comprendre l'accès bureau à distance et les aspects essentiels de RDP
 
